@@ -5,13 +5,13 @@
 Summary:	Basic tools (containers, algorithms) used by other quantstack packages
 Summary(pl.UTF-8):	Podstawowe narzędzia (kontenery, algorytmy) używane przez inne pakiety quantstack
 Name:		xtl
-Version:	0.7.5
+Version:	0.7.7
 Release:	1
 License:	BSD
 Group:		Libraries
 #Source0Download: https://github.com/xtensor-stack/xtl/tags
 Source0:	https://github.com/xtensor-stack/xtl/archive/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	ef5d0fb590308128908b5bff1d14d182
+# Source0-md5:	6df56ae8bc30471f6773b3f18642c8ab
 URL:		https://xtl.readthedocs.io/
 BuildRequires:	cmake >= 3.1
 BuildRequires:	libstdc++-devel >= 6:5
